@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Oleksandr with nickname @bealkl
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me bealkl@gmail.com
